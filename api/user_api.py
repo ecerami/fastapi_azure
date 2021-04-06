@@ -1,8 +1,9 @@
 import azure.functions as func
 from .http_asgi import AsgiMiddleware
 import mimesis
-from api_app import app
+import fastapi
 
+app = fastapi.FastAPI()
 
 @app.get("/user/{user_id}")
 async def get_user(user_id: int):

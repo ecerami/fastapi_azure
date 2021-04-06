@@ -1,5 +1,5 @@
 {
-  "scriptFile": "__init__.py",
+  "scriptFile": "user_api.py",
   "bindings": [
     {
       "authLevel": "anonymous",
