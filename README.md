@@ -33,4 +33,4 @@ Step 5:  Deploy your function to Azure:
   * Run "Azure Functions:  Deploy to Function App.
   * Follow the promps and wait a few minutes for everything to deploy.
 
-Step 6:  Verify that your app is running by going to:  https://<APP_NAME>.azurewebsites.net/user/1.  You should see similar fake data as shown in Step 4.
+Verify that your app is running by going to:  https://<APP_NAME>.azurewebsites.net/user/1.  You should see similar fake data as shown in Step 4.
